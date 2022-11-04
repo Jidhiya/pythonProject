@@ -5,3 +5,5 @@ elif plant == "spathiphyllum":
     print("No, I want a big Spathiphyllum !")
 else :
     print("Spathiphyllum! Not "+ plant +"!")
+
+
